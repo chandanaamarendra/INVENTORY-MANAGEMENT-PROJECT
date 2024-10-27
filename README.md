@@ -11,7 +11,7 @@ This project is a comprehensive SQL-based Inventory Management System designed t
 5. Triggers: For automatic stock updates on order placement and product deletion
 
 ## Getting Started
-### Prerequisites
+#### Prerequisites
 Ensure you have:
 
 SQL Server or a compatible SQL database engine installed
