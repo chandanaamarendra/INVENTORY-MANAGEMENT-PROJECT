@@ -18,7 +18,7 @@ SQL Server or a compatible SQL database engine installed
 A basic understanding of SQL for executing scripts and creating databases
 
 ## Installation
-1. Clone the repository:git clone https://github.com/your-username/Inventory-Management-System.git
+1. Clone the repository:git clone (https://github.com/chandanaamarendra/INVENTORY-MANAGEMENT-PROJECT)
 2. Open the SQL script file and run it in your SQL editor.
 3. Verify that all tables, constraints, views, procedures, and triggers have been created.
 
